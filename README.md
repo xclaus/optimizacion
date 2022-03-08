@@ -1,4 +1,5 @@
-# Apps 
+# Apps
+``` pase por aqui CM 
 ```console
 sudo apt install vim ccze htop wget curl unzip openfortivpn -y
 ```
